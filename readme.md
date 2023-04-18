@@ -1,0 +1,3 @@
+## Swagger UI permet  de tester les différentes méthodes de votre API en fournissant des formulaires pour les appels GET, POST, PUT, DELETE et PATCH. Si vous avez mis en place des autorisations pour votre API, Swagger UI permet également de les configurer et de les utiliser lors des appels d'API.
+
+## En résumé, Swagger UI est une interface utilisateur pour les spécifications d'API REST générées par Swagger. Il fournit une interface utilisateur pour visualiser et tester les API, ainsi que pour configurer et utiliser les autorisations lors des appels d'API.
